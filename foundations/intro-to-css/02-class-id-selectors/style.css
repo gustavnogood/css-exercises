@@ -1,0 +1,19 @@
+.Odd {
+    background-color: rgb(254, 135, 204);
+    font-variant: Verdana, Dejavu Sans, sans-serif;
+}
+
+.Odd#Three {
+    font-size: 24px;
+}
+
+#Two {
+    color: blue;
+    font-size: 36px;
+}
+
+#Four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
