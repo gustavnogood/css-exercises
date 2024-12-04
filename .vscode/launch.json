@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "c:\\Users\\gusta\\React\\OdinProject\\css-exercises\\foundations\\intro-to-css\\05-descendant-combinator\\index.html"
+            "file": "c:\\Users\\gusta\\React\\OdinProject\\css-exercises\\foundations\\cascade\\01-cascade-fix\\index.html"
         }
     ]
 }
